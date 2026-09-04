@@ -1,0 +1,3 @@
+2026-05-01 - Aumento de errores 404 por rutas inexistentes.
+2026-05-03 - Intentos de acceso a /.env detectados.
+2026-05-05 - Se recomienda rotación de respaldos semanal.
